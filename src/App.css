@@ -1,0 +1,12 @@
+.app {
+  background-color: red;
+}
+
+.app:hover {
+  background-color: yellowgreen;
+}
+
+.blue {
+  color: blue;
+}
+
